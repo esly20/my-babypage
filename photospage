@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <center>
+
+  <head>
+    <link rel="stylesheet" href="mystylesheet.css">
+    <style>
+      body{
+        background-color:lime;
+      }
+    </style>
+    <h1>Photo Gallery</h1>
+  </head>
+
+  <body>
+
+    Welcome to Photos of Emma.
+    <p>This website is currnetly under construction so please enjoy the baby sloths for the moment.</p>
+    <img alt="a very tiny brown sloth wrapped in a towel"src="sloth1.jpg">
+    <img alt="A small brown sloth hanging on a brach reaching towards the camera"src="sloth3.jpg">
+    <img alt="a medium sized sloth, but still a child, sitting on a fence poking his head out over the fence"src="sloth4.jpg">
+    <img alt="a sloth in a bucket of small stuffed animals"src="sloth5.jpg">
+
+
+    <h3>
+    <p></p>
+    <a href="file:///C:/Users/GWC/Desktop/emmaweb.html">Back to HOME</a>
+    <p></p>
+    <a href="file:///C:/Users/GWC/Desktop/emmabegin.html">Back to the beginning</a>
+    </h3>
+
+  </body>
+</center>
+</html>
