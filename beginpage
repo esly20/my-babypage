@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <center>
+
+  <head>
+    <link rel="stylesheet" href="mystylesheet.css">
+    <style>
+      body{
+        background-color:orange;
+      }
+    </style>
+    <h1>Who was Baby Emma Slibeck?</h1>
+  </head>
+
+  <body>
+
+    <p>Welcome to the beginning of baby Emma's life.</p>
+    <p>Emma was born in New York City on March 18th, 2002 in an ice cream parlor.Just kidding. But there was an ice cream parlour right by the hospital. </p>
+    <h3><a href="file:///C:/Users/GWC/Desktop/emmaweb.html">Back to HOME</a>
+    <p></p>
+    <a href="file:///C:/Users/GWC/Desktop/photosofemma.html">Photo Gallery</a>
+  </h3>
+
+  </body>
+</center>
+</html>
